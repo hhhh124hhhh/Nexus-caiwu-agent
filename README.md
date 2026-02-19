@@ -1,6 +1,8 @@
 # Nexus财务智能体
 
-基于 Youtu-Agent 框架构建的智能财务分析系统，专为A股市场设计。通过标准化工具库和智能缓存机制，提供稳定、高效的财务数据分析能力，彻底解决AI代码生成的错误和token消耗问题。
+基于 Yutu-Agent 框架构建的智能财务分析系统，专为A股市场设计。通过标准化工具库和智能缓存机制，提供稳定、高效的财务数据分析能力，彻底解决AI代码生成的错误和token消耗问题。
+
+> 📦 **Claude Skill 仓库**: [Nexus-caiwu-skill](https://github.com/hhhh124hhhh/Nexus-caiwu-skill) - 适配 Claude Code 的技能包，支持直接对话式财务分析
 
 ## 🌟 核心特性
 
